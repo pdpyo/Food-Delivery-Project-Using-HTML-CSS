@@ -1,0 +1,26 @@
+body{
+    background-color: brown;
+}
+/* Navigation */
+#navbar{
+
+}
+
+/* Home section */
+#home{
+    
+}
+
+/* Services Section */
+#services{
+    flex-direction: column;
+    
+}
+
+#services .box{
+     
+}
+
+/* Clients Section */
+
+/* Footer Section */
